@@ -61,7 +61,6 @@
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         
-        /* Navigation Bar */
         .navbar {
             display: flex;
             height: 80px;
@@ -136,7 +135,6 @@
             font-size: 26px;
         }
         
-        /* Hero Section - fixed styles */
         .hero {
             font-family: 'Monument Extended', Arial, sans-serif;
             position: relative;
@@ -222,7 +220,6 @@
             font-size: 26px;
         }
         
-   
         .models-scroll-container {
             width: 100%;
             overflow: hidden;
@@ -250,7 +247,7 @@
             display: flex;
             justify-content: flex-start;
             gap: 25px;
-            flex-wrap: nowrap; /* Important to prevent wrapping */
+            flex-wrap: nowrap; 
         }
         
         .model-item {
